@@ -1,11 +1,5 @@
 # 👋 Olá, eu sou Matheus Nunes
 
-🇧🇷 Desenvolvedor Backend
-
-💻 Programador autodidata focado em desenvolvimento backend.
-
-Gosto de resolver problemas complexos de forma elegante e construir sistemas bem estruturados.
-
 ## 👨‍💻 Sobre mim
 
 - 🇧🇷 Brasileiro
@@ -13,10 +7,6 @@ Gosto de resolver problemas complexos de forma elegante e construir sistemas bem
 - 🎯 Focado em desenvolvimento Backend
 - 🧠 Gosto de resolver problemas complexos com soluções elegantes
 - 🎓 Pretendo cursar faculdade na área de tecnologia no futuro
-
-## 📫 Contato
-
-- Discord: texk4035
 
 ## 🧰 Tecnologias
 
