@@ -1,12 +1,7 @@
 # 👋 Olá, eu sou Matheus Nunes
 
-## 👨‍💻 Sobre mim
-
-- 🇧🇷 Brasileiro
-- 💻 Programador autodidata há cerca de 1 ano
-- 🎯 Focado em desenvolvimento Backend
-- 🧠 Gosto de resolver problemas complexos com soluções elegantes
-- 🎓 Pretendo cursar faculdade na área de tecnologia no futuro
+🎓 Brasileiro. Programador autodidata há cerca de 1 ano focado em *desenvolvimento Backend*
+🧠 Gosto de resolver *problemas complexos* com *soluções elegantes*
 
 ## 🧰 Linguagens e Tecnologias
 
