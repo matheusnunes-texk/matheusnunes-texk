@@ -3,7 +3,7 @@
 Brasileiro. Programador autodidata há cerca de 1 ano focado em **desenvolvimento Backend**.
 Gosto de resolver **problemas complexos** com **soluções elegantes**
 
-## 🧰 Linguagens e Tecnologias
+### 🧰 Linguagens e Tecnologias
 
 <img 
 align="left" 
@@ -78,3 +78,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.s
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnunes-texk&layout=compact&theme=tokyonight"/>
 
 </div>
+
