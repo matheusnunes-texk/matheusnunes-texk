@@ -5,8 +5,7 @@
 <h3 align="center">Backend Developer em formação | 🇧🇷 Brasil</h3>
 
 ---
-s
-## 👨‍💻 Sobre mim
+### 👨‍💻 Sobre mim
 
 💻 Estudando para me tornar um **Desenvolvedor Backend**
 
@@ -20,26 +19,26 @@ s
 
 ---
 
-# 🚀 Tech Stack
+### 🚀 Tech Stack
 
-## Backend
+### Backend
 
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-## Banco de Dados
+### Banco de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-## Ferramentas
+### Ferramentas
 
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Sistema
+### Sistema
 
 ![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
