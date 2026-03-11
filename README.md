@@ -3,77 +3,25 @@
 Brasileiro. Programador autodidata há cerca de 1 ano focado em **desenvolvimento Backend**.
 Gosto de resolver **problemas complexos** com **soluções elegantes**
 
-### 🧰 Linguagens e Tecnologias
+## ⚙️ Tech Stack
 
-<img 
-align="left" 
-alt="Python" 
-title="Python"
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-/>
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-<img 
-align="left" 
-alt="Flask" 
-title="Flask"
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" 
-/>
+### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-<img 
-align="left" 
-alt="Django" 
-title="Django"
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" 
-/>
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<img 
-align="left" 
-alt="FastAPI" 
-title="FastAPI"
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" 
-/>
+<br>
 
-<img 
-align="left" 
-alt="PostgreSQL" 
-title="PostgreSQL"
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
-/>
+## 🐍 Contribuições
 
-<img 
-align="left" 
-alt="Git" 
-title="Git"
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
-
-<img 
-align="left" 
-alt="GitHub" 
-title="GitHub"
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-/>
-
-<br/>
-<br/>
-
-<div align="center">
-
-<img height="180em" src="https://streak-stats.demolab.com?user=matheusnunes-texk&theme=tokyonight&hide_border=true"/>
-
-</div>
+![Snake animation](https://github.com/matheusnunes-texk/matheusnunes-texk/blob/output/github-contribution-grid-snake.svg)
 
