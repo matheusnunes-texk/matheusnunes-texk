@@ -73,14 +73,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.s
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusnunes-texk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnunes-texk&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
 <img height="180em" src="https://streak-stats.demolab.com?user=matheusnunes-texk&theme=tokyonight&hide_border=true"/>
 
 </div>
